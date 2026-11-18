@@ -35,3 +35,20 @@ Construir minha trajetória profissional em UX/UI Design, aprendendo continuamen
 
 - [LinkedIn](https://linkedin.com/in/guto-trajano-64786a271)
 - [GitHub](https://github.com/trajanoguto844-sketch)
+
+- ## 💻 Projetos
+
+### Organizaê — Organizador de tarefas e estudos
+
+Meu primeiro projeto desenvolvido com HTML, CSS e JavaScript. A aplicação permite organizar tarefas e acompanhar atividades de estudo.
+
+**Funcionalidades:**
+- Cadastro, edição e exclusão de tarefas.
+- Marcação de tarefas concluídas.
+- Busca e filtros.
+- Salvamento de dados com LocalStorage.
+- Interface responsiva.
+
+**Links:**
+- [Acessar o projeto](https://trajanoguto844-sketch.github.io/organizaee/)
+- [Ver código no GitHub](https://github.com/trajanoguto844-sketch/organizaee)
