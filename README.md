@@ -36,7 +36,7 @@ Construir minha trajetória profissional em UX/UI Design, aprendendo continuamen
 - [LinkedIn](https://linkedin.com/in/guto-trajano-64786a271)
 - [GitHub](https://github.com/trajanoguto844-sketch)
 
-- ## 💻 Projetos
+## 💻 Projetos 
 
 ### Organizaê — Organizador de tarefas e estudos
 
